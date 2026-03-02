@@ -1,0 +1,8 @@
+.DS_Store
+.agent/
+.agents/
+skills-lock.json
+.claude/skills/skill-creator/
+
+# Claude Code auto-generated
+.claude/projects/
